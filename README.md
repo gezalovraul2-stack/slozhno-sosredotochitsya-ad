@@ -12,3 +12,4 @@ CSS
 JavaScript
 Функциональность
 Цветовая схема переключается по нажатию на кнопку в шапке сайта
+https://github.com/gezalovraul2-stack/slozhno-sosredotochitsya-ad
